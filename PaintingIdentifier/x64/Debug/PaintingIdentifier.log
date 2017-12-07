@@ -1,4 +1,5 @@
 ﻿  PaintingIdentifier.cpp
-c:\users\rory\source\repos\paintingidentifier\paintingidentifier\paintingidentifier.cpp(269): warning C4244: 'argument': conversion from 'double' to 'uchar', possible loss of data
-c:\users\rory\source\repos\paintingidentifier\paintingidentifier\paintingidentifier.cpp(335): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rory\source\repos\paintingidentifier\paintingidentifier\paintingidentifier.cpp(218): warning C4244: 'argument': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rory\source\repos\paintingidentifier\paintingidentifier\paintingidentifier.cpp(369): warning C4244: 'argument': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rory\source\repos\paintingidentifier\paintingidentifier\paintingidentifier.cpp(431): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   PaintingIdentifier.vcxproj -> C:\Users\Rory\source\repos\PaintingIdentifier\x64\Debug\PaintingIdentifier.exe
